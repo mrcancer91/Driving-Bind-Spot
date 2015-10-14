@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DST_MotionSegmentation", "DST_MotionSegmentation\DST_MotionSegmentation.csproj", "{12B3BCF9-21A1-4097-B8B1-C021B61F4814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTracker", "MedianFlowLib\LibTracker.csproj", "{99F2132C-2EB5-4C68-A33F-5D449181F6F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibDataAssociation", "DataAssociationLib\LibDataAssociation.csproj", "{4AF213DE-A0D5-4C33-8657-590FD5CC9243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibFilters", "LibFilters\LibFilters.csproj", "{489F3A00-593E-4988-96E7-0F9D8DF538E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMotionSegmentation", "LibMotionSegmentation\LibMotionSegmentation.csproj", "{0EE49A42-AFE6-4287-BBB0-030FEBC133BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE49A42-AFE6-4287-BBB0-030FEBC133BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE49A42-AFE6-4287-BBB0-030FEBC133BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE49A42-AFE6-4287-BBB0-030FEBC133BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE49A42-AFE6-4287-BBB0-030FEBC133BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B3BCF9-21A1-4097-B8B1-C021B61F4814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B3BCF9-21A1-4097-B8B1-C021B61F4814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B3BCF9-21A1-4097-B8B1-C021B61F4814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B3BCF9-21A1-4097-B8B1-C021B61F4814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489F3A00-593E-4988-96E7-0F9D8DF538E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489F3A00-593E-4988-96E7-0F9D8DF538E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489F3A00-593E-4988-96E7-0F9D8DF538E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489F3A00-593E-4988-96E7-0F9D8DF538E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF213DE-A0D5-4C33-8657-590FD5CC9243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF213DE-A0D5-4C33-8657-590FD5CC9243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF213DE-A0D5-4C33-8657-590FD5CC9243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF213DE-A0D5-4C33-8657-590FD5CC9243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F2132C-2EB5-4C68-A33F-5D449181F6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F2132C-2EB5-4C68-A33F-5D449181F6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F2132C-2EB5-4C68-A33F-5D449181F6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F2132C-2EB5-4C68-A33F-5D449181F6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

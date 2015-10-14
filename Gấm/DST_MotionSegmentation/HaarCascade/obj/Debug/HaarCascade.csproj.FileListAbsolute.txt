@@ -1,0 +1,1 @@
+G:\Video Segmentation\DST_MotionSegmentation\HaarCascade\obj\Debug\HaarCascade.csprojResolveAssemblyReference.cache

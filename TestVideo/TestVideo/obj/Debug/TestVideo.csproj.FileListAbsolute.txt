@@ -1,0 +1,38 @@
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\TestVideo.exe
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\TestVideo.pdb
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.UI.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.Util.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\ZedGraph.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.xml
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.UI.xml
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.Util.xml
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.Form1.resources
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.Properties.Resources.resources
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.csproj.GenerateResource.Cache
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.exe
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.pdb
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\cvextern.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\msvcp120.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\msvcr120.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\opencv_ffmpeg300_64.dll
+D:\Master Degree\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.csprojResolveAssemblyReference.cache
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.exe
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.pdb
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\cvextern.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\msvcp120.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\msvcr120.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\opencv_ffmpeg300_64.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\TestVideo.exe
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\TestVideo.pdb
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.UI.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.Util.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\ZedGraph.dll
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.xml
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.CV.UI.xml
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\bin\Debug\Emgu.Util.xml
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.csprojResolveAssemblyReference.cache
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.Form1.resources
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.Properties.Resources.resources
+H:\Thesis\Driving blind spot\Project\TestVideo\TestVideo\obj\Debug\TestVideo.csproj.GenerateResource.Cache
